@@ -127,7 +127,6 @@ class Ui_Login(object):
         self.label.setText(_translate("Login", "GİRİŞ EKRANI"))
         self.pushButton.setText(_translate("Login", "GİRİŞ YAP"))
         self.lineEdit_2.setPlaceholderText(_translate("Login", "Şifre"))
-import conn
 import iconfoto
 
 

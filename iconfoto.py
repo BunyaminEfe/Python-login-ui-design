@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# -*- coding: utf-8 -*-
 from PyQt5 import QtCore
 
 qt_resource_data = b"\
